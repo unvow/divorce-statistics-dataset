@@ -1,16 +1,51 @@
-state,state_abbr,filing_fee_min,filing_fee_max,avg_total_uncontested,avg_total_contested,year,source
-California,CA,435,450,4500,26300,2024,State court schedules; Martindale-Nolo 2019
-Colorado,CO,230,230,3600,21000,2024,State court schedules; Martindale-Nolo 2019
-Florida,FL,400,410,4100,24100,2024,State court schedules; Martindale-Nolo 2019
-Georgia,GA,200,250,3500,20500,2024,State court schedules; Martindale-Nolo 2019
-Illinois,IL,210,388,4200,25000,2024,State court schedules; Martindale-Nolo 2019
-Massachusetts,MA,200,200,4700,27800,2024,State court schedules; Martindale-Nolo 2019
-Michigan,MI,175,255,3300,19500,2024,State court schedules; Martindale-Nolo 2019
-New Jersey,NJ,300,325,4600,27200,2024,State court schedules; Martindale-Nolo 2019
-New York,NY,210,335,4800,28500,2024,State court schedules; Martindale-Nolo 2019
-North Carolina,NC,225,225,3400,20200,2024,State court schedules; Martindale-Nolo 2019
-Ohio,OH,200,350,3200,19800,2024,State court schedules; Martindale-Nolo 2019
-Pennsylvania,PA,200,350,3700,21500,2024,State court schedules; Martindale-Nolo 2019
-Texas,TX,250,350,3900,22000,2024,State court schedules; Martindale-Nolo 2019
-Virginia,VA,86,86,3100,19000,2024,State court schedules; Martindale-Nolo 2019
-Washington,WA,280,314,4000,23500,2024,State court schedules; Martindale-Nolo 2019
+state,state_abbr,filing_fee_min,filing_fee_max,avg_total_uncontested,avg_total_contested,avg_total_overall,avg_attorney_hourly_rate,year,source
+Alabama,AL,200,350,3800,22400,10400,208,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Alaska,AK,250,250,3800,22100,10288,272,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Arizona,AZ,320,380,3800,22100,10280,266,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Arkansas,AR,100,165,3000,17600,8165,242,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+California,CA,435,450,4500,26300,14435,344,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Colorado,CO,230,350,3600,21000,11230,261,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Connecticut,CT,350,360,4500,26600,12360,342,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Delaware,DE,165,165,4400,26200,12165,344,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Florida,FL,380,430,4100,24100,10409,297,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Georgia,GA,200,400,3500,20500,11400,286,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Hawaii,HI,250,250,3400,19900,9240,280,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Idaho,ID,154,154,3000,17600,8181,233,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Illinois,IL,289,388,4200,25000,10334,305,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Indiana,IN,157,157,3400,19700,9157,242,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Iowa,IA,185,185,3400,19800,9184,202,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Kansas,KS,195,195,3100,18100,8400,227,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Kentucky,KY,148,153,3000,17500,8151,204,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Louisiana,LA,150,350,3700,22000,10200,245,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Maine,ME,120,120,3000,17500,8120,193,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Maryland,MD,165,195,4100,24000,11165,310,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Massachusetts,MA,200,215,4700,27800,12200,285,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Michigan,MI,175,255,3300,19500,10215,266,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Minnesota,MN,400,420,3400,20200,9365,271,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Mississippi,MS,50,50,3100,18100,8400,217,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Missouri,MO,100,300,3700,21900,10184,249,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Montana,MT,85,170,2300,13300,6170,199,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Nebraska,NE,158,164,3000,17600,8158,218,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Nevada,NV,217,299,3800,22100,10258,311,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+New Hampshire,NH,251,251,3400,20200,9400,248,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+New Jersey,NJ,300,325,4600,27200,12300,306,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+New Mexico,NM,137,137,2400,14300,6637,242,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+New York,NY,210,335,4800,28500,13835,358,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+North Carolina,NC,225,225,3400,20200,10113,254,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+North Dakota,ND,80,80,3000,17400,8080,253,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Ohio,OH,200,350,3200,19800,9350,224,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Oklahoma,OK,180,280,3400,19800,9183,235,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Oregon,OR,287,287,3800,22200,10301,255,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Pennsylvania,PA,300,350,3700,21500,11202,288,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Rhode Island,RI,160,160,3800,22400,10400,240,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+South Carolina,SC,150,150,3700,21800,10150,249,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+South Dakota,SD,95,95,3100,18500,8595,199,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Tennessee,TN,184,400,3600,20900,9722,233,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Texas,TX,250,400,3900,22000,12792,300,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Utah,UT,333,360,3900,23100,10725,250,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Vermont,VT,79,295,3300,19600,9090,226,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Virginia,VA,86,100,3100,19000,11584,295,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+Washington,WA,280,314,4000,23500,10314,288,2025,State court fee schedules; Self.inc 2025; Martindale-Nolo 2019; LawPay/Clio 2023
+West Virginia,WV,135,135,3000,17500,8134,162,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Wisconsin,WI,184,184,3200,18700,8690,231,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023
+Wyoming,WY,70,85,3300,19500,9085,241,2025,State court fee schedules; Self.inc 2025; LawPay/Clio 2023

@@ -1,0 +1,6 @@
+demographic_group,male_rate_per_1000_married,female_rate_per_1000_married,estimated_first_divorces_male,estimated_first_divorces_female,year,source
+Total,11.5,13.4,625295,718716,2023,BGSU NCFMR (FP-25-02) using ACS 1-year estimates
+White non-Hispanic,10.3,12.2,,,2023,BGSU NCFMR (FP-25-02) using ACS 1-year estimates
+Black non-Hispanic,21.3,25.7,,,2023,BGSU NCFMR (FP-25-02) using ACS 1-year estimates
+Hispanic,11.7,13.1,,,2023,BGSU NCFMR (FP-25-02) using ACS 1-year estimates
+Asian non-Hispanic,6.4,7.9,,,2023,BGSU NCFMR (FP-25-02) using ACS 1-year estimates

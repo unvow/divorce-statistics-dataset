@@ -1,3 +1,7 @@
 outcome_type,percentage,sample_context,year,source
-Mother as custodial parent,79.9,"10.3 million custodial mothers out of 12.9 million custodial parents total",2018,Census Bureau CPS-CSS (P60-269)
-Father as custodial parent,20.1,"Up from 16% in 1994; trend toward more father custody continues",2018,Census Bureau CPS-CSS (P60-269)
+Mother as custodial parent,78.2,"Approximately 10.9 million custodial mothers out of 13.9 million custodial parents total",2022,Census Bureau CPS-CSS (P60-285)
+Father as custodial parent,21.8,"Up from 16% in 1994 and 20.1% in 2017; trend toward more father custody continues",2022,Census Bureau CPS-CSS (P60-285)
+Received at least some child support,75.5,"Among custodial parents supposed to receive payments under agreements or orders",2022,Census Bureau CPS-CSS (P60-285)
+Received no child support,24.5,"Among custodial parents supposed to receive payments under agreements or orders",2022,Census Bureau CPS-CSS (P60-285)
+Mean annual child support received,3114,"$3,114 per year (2022 dollars) among custodial parents who received payments",2022,Census Bureau CPS-CSS (P60-285)
+Custodial parents with agreements or orders,41.0,"Of all custodial parents; 91% of those with agreements had formal legal orders",2022,Census Bureau CPS-CSS (P60-285)

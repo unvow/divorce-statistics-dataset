@@ -1,13 +1,44 @@
-country,divorce_rate_per_1000,year,source
-Russia,4.7,2022,Rosstat
-Cuba,2.9,2022,UN Demographic Yearbook
-Lithuania,2.6,2022,Eurostat
-Denmark,2.6,2022,Eurostat
-Sweden,2.5,2022,Eurostat
-United States,2.4,2023,CDC NVSS (45 reporting states + D.C.)
-France,1.9,2022,INSEE
-South Korea,1.8,2022,Statistics Korea (KOSTAT)
-United Kingdom,1.7,2022,ONS
-Germany,1.7,2022,Eurostat
-Japan,1.5,2022,MHLW Japan
-Italy,1.4,2022,Eurostat
+country,divorce_rate_per_1000,year,source,trend
+Russia,4.7,2023,Rosstat,stable
+Chile,3.6,2022,OECD Family Database,rising
+Cuba,2.9,2022,UN Demographic Yearbook,stable
+Latvia,2.8,2023,Eurostat,stable
+China,2.6,2023,Ministry of Civil Affairs,rising (post-COVID rebound from 2.0 in 2022)
+Lithuania,2.5,2023,Eurostat,falling (from 2.6 in 2022)
+United States,2.4,2023,CDC NVSS (45 reporting states + D.C.),falling (long-term decline)
+Denmark,2.2,2023,Eurostat,falling (from 2.6 in 2022)
+Australia,2.1,2024,ABS (population aged 16+),falling (lowest since 1975)
+Finland,2.1,2023,Eurostat,rising (from 1.9 in 2022)
+Sweden,2.0,2023,Eurostat,falling (from 2.5 in 2022)
+Turkey,2.0,2023,TURKSTAT,falling (from 2.1 in 2022)
+Canada,1.9,2023,Statistics Canada,falling (lowest in 50 years)
+Czechia,1.9,2024,Eurostat,stable
+Estonia,1.9,2023,Eurostat,stable
+France,1.9,2022,INSEE,stable (latest available from Eurostat)
+Hungary,1.9,2024,Eurostat,rising (from 1.7 in 2022)
+Mexico,1.9,2022,INEGI,rising
+South Korea,1.8,2023,Statistics Korea (KOSTAT),falling (long-term decline from 3.4 peak in 2003)
+Switzerland,1.8,2023,Swiss Federal Statistical Office,stable
+Belgium,1.7,2023,Eurostat / Statbel,stable
+Spain,1.7,2023,INE Spain,falling (from 1.8 in 2022)
+United Kingdom,1.7,2022,ONS,falling (80k divorces; lowest since 1971)
+Austria,1.6,2023,Eurostat,rising (increased from 2022)
+Norway,1.6,2023,Eurostat,falling (from 1.8 in 2020)
+Poland,1.6,2024,Eurostat,stable
+Portugal,1.6,2023,Eurostat,stable
+Germany,1.5,2023,Eurostat,falling (from 1.7 in 2022)
+Greece,1.5,2023,Eurostat,stable
+Japan,1.5,2022,MHLW Japan,falling (three consecutive years of decline)
+New Zealand,1.5,2023,Stats NZ,falling (long-term decline)
+Serbia,1.5,2023,Eurostat,stable
+Slovakia,1.5,2023,Eurostat,stable
+Brazil,1.4,2022,IBGE,stable
+Bulgaria,1.4,2023,Eurostat,stable
+Netherlands,1.4,2023,Eurostat / CBS,rising (increased from 2022)
+Croatia,1.3,2024,Eurostat,stable
+Italy,1.3,2024,Eurostat,falling (from 1.4 in 2022)
+Romania,1.2,2023,Eurostat,stable
+Slovenia,1.0,2024,Eurostat,stable
+Ireland,0.7,2017,Eurostat (latest available),stable (limited data availability)
+Colombia,0.6,2022,OECD Family Database,low
+India,0.1,2022,UN Demographic Yearbook (estimate),very low (rising slowly with urbanization)
