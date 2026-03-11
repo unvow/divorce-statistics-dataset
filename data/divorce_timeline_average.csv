@@ -1,0 +1,16 @@
+state,state_abbr,mandatory_waiting_days,avg_uncontested_weeks,avg_contested_months,year,source
+California,CA,180,8-12,12-18,2024,Cal. Fam. Code 2339
+Colorado,CO,91,12-16,10-16,2024,C.R.S. 14-10-106(1)(a)(III)
+Florida,FL,20,4-8,8-14,2024,Fla. Stat. 61.19
+Georgia,GA,30,4-8,8-12,2024,O.C.G.A. 19-5-3
+Illinois,IL,0,4-8,10-18,2024,750 ILCS 5/401
+Massachusetts,MA,120,14-20,14-24,2024,Mass.gov (30-day delay + 90-day nisi period for 1A joint petition)
+Michigan,MI,60,8-12,10-18,2024,MCL 552.9f (60 days no children; 180 days with children)
+New Jersey,NJ,0,8-12,12-24,2024,N.J.S.A. 2A:34-2
+New York,NY,0,6-12,12-24,2024,NY Dom. Rel. Law
+North Carolina,NC,365,54-58,14-20,2024,N.C.G.S. 50-6
+Ohio,OH,30,6-10,8-14,2024,Ohio Rev. Code 3105.64
+Pennsylvania,PA,90,12-16,12-24,2024,23 Pa.C.S. 3301(c)
+Texas,TX,60,8-10,10-18,2024,Tex. Fam. Code 6.702
+Virginia,VA,365,54-58,14-20,2024,Va. Code 20-91 (1 year; 6 months only without children + separation agreement)
+Washington,WA,90,12-16,10-18,2024,RCW 26.09.030

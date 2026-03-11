@@ -1,0 +1,51 @@
+state,state_abbr,divorce_rate_per_1000,marriage_rate_per_1000,year,source
+Alabama,AL,3.0,6.9,2023,CDC NVSS
+Alaska,AK,3.1,6.4,2023,CDC NVSS
+Arizona,AZ,2.0,5.6,2023,CDC NVSS
+Arkansas,AR,3.0,7.8,2023,CDC NVSS
+California,CA,,5.5,2023,CDC NVSS (marriage only; divorce not reported)
+Colorado,CO,2.8,7.8,2023,CDC NVSS
+Connecticut,CT,2.6,6.2,2023,CDC NVSS
+Delaware,DE,2.6,4.7,2023,CDC NVSS
+Florida,FL,3.0,7.0,2023,CDC NVSS
+Georgia,GA,2.2,5.9,2023,CDC NVSS
+Hawaii,HI,,12.5,2023,CDC NVSS (marriage only; divorce not reported)
+Idaho,ID,3.4,7.0,2023,CDC NVSS
+Illinois,IL,1.2,5.1,2023,CDC NVSS
+Indiana,IN,,5.9,2023,CDC NVSS (marriage only; divorce not reported)
+Iowa,IA,1.9,5.2,2023,CDC NVSS
+Kansas,KS,1.7,5.3,2023,CDC NVSS
+Kentucky,KY,2.9,6.1,2023,CDC NVSS
+Louisiana,LA,0.9,3.7,2023,CDC NVSS
+Maine,ME,2.5,7.0,2023,CDC NVSS
+Maryland,MD,2.7,5.2,2023,CDC NVSS
+Massachusetts,MA,1.8,5.2,2023,CDC NVSS
+Michigan,MI,2.2,5.0,2023,CDC NVSS
+Minnesota,MN,,4.8,2023,CDC NVSS (marriage only; divorce not reported)
+Mississippi,MS,2.9,5.5,2023,CDC NVSS
+Missouri,MO,2.6,5.7,2023,CDC NVSS
+Montana,MT,2.3,9.2,2023,CDC NVSS
+Nebraska,NE,2.6,5.3,2023,CDC NVSS
+Nevada,NV,3.8,24.6,2023,CDC NVSS
+New Hampshire,NH,2.5,6.6,2023,CDC NVSS
+New Jersey,NJ,2.2,5.4,2023,CDC NVSS
+New Mexico,NM,,4.7,2023,CDC NVSS (marriage only; divorce not reported)
+New York,NY,2.4,6.5,2023,CDC NVSS
+North Carolina,NC,2.7,6.0,2023,CDC NVSS
+North Dakota,ND,2.6,5.1,2023,CDC NVSS
+Ohio,OH,2.4,5.1,2023,CDC NVSS
+Oklahoma,OK,3.3,5.9,2023,CDC NVSS
+Oregon,OR,2.8,5.8,2023,CDC NVSS
+Pennsylvania,PA,2.2,5.3,2023,CDC NVSS
+Rhode Island,RI,2.3,5.9,2023,CDC NVSS
+South Carolina,SC,2.2,6.2,2023,CDC NVSS
+South Dakota,SD,2.3,5.9,2023,CDC NVSS
+Tennessee,TN,2.9,7.3,2023,CDC NVSS
+Texas,TX,2.1,5.8,2023,CDC NVSS
+Utah,UT,3.1,11.2,2023,CDC NVSS
+Vermont,VT,2.4,7.2,2023,CDC NVSS
+Virginia,VA,2.7,5.8,2023,CDC NVSS
+Washington,WA,2.7,5.6,2023,CDC NVSS
+West Virginia,WV,2.9,5.8,2023,CDC NVSS
+Wisconsin,WI,2.1,5.0,2023,CDC NVSS
+Wyoming,WY,3.4,7.0,2023,CDC NVSS

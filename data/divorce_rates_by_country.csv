@@ -1,0 +1,13 @@
+country,divorce_rate_per_1000,year,source
+Russia,4.7,2022,Rosstat
+Cuba,2.9,2022,UN Demographic Yearbook
+Lithuania,2.6,2022,Eurostat
+Denmark,2.6,2022,Eurostat
+Sweden,2.5,2022,Eurostat
+United States,2.4,2023,CDC NVSS (45 reporting states + D.C.)
+France,1.9,2022,INSEE
+South Korea,1.8,2022,Statistics Korea (KOSTAT)
+United Kingdom,1.7,2022,ONS
+Germany,1.7,2022,Eurostat
+Japan,1.5,2022,MHLW Japan
+Italy,1.4,2022,Eurostat

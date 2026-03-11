@@ -1,0 +1,16 @@
+state,state_abbr,filing_fee_min,filing_fee_max,avg_total_uncontested,avg_total_contested,year,source
+California,CA,435,450,4500,26300,2024,State court schedules; Martindale-Nolo 2019
+Colorado,CO,230,230,3600,21000,2024,State court schedules; Martindale-Nolo 2019
+Florida,FL,400,410,4100,24100,2024,State court schedules; Martindale-Nolo 2019
+Georgia,GA,200,250,3500,20500,2024,State court schedules; Martindale-Nolo 2019
+Illinois,IL,210,388,4200,25000,2024,State court schedules; Martindale-Nolo 2019
+Massachusetts,MA,200,200,4700,27800,2024,State court schedules; Martindale-Nolo 2019
+Michigan,MI,175,255,3300,19500,2024,State court schedules; Martindale-Nolo 2019
+New Jersey,NJ,300,325,4600,27200,2024,State court schedules; Martindale-Nolo 2019
+New York,NY,210,335,4800,28500,2024,State court schedules; Martindale-Nolo 2019
+North Carolina,NC,225,225,3400,20200,2024,State court schedules; Martindale-Nolo 2019
+Ohio,OH,200,350,3200,19800,2024,State court schedules; Martindale-Nolo 2019
+Pennsylvania,PA,200,350,3700,21500,2024,State court schedules; Martindale-Nolo 2019
+Texas,TX,250,350,3900,22000,2024,State court schedules; Martindale-Nolo 2019
+Virginia,VA,86,86,3100,19000,2024,State court schedules; Martindale-Nolo 2019
+Washington,WA,280,314,4000,23500,2024,State court schedules; Martindale-Nolo 2019
